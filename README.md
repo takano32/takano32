@@ -5,6 +5,8 @@
 <h3 align="center">GitHub Stats</h3>
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=takano32)](https://git.io/streak-stats)
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takano32&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="takano32-streak-stats" /></p>
 
 
