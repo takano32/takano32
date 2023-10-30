@@ -16,6 +16,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=takano32&theme=onedark&column=9&margin-w=2&margin-h=2&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--
 <h3 align="center">Holopin badges</h3>
 
 [![An image of @takano32's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/takano32)](https://holopin.io/@takano32)
+-->
