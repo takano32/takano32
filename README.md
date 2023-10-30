@@ -1,4 +1,4 @@
-# Hi 👋, I'm [@takano32](https://x.com/takano32)
+Hi 👋, I'm [@takano32](https://x.com/takano32)
 
 
 
