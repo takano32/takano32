@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm @takano32</h1>
+# Hi 👋, I'm [@takano32](https://x.com/takano32)
 
 
 
