@@ -11,8 +11,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takano32&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="takano32-streak-stats" /></p>
 
 
-![Metrics](/github-metrics.svg)
-
 
 <h3 align="center">GitHub Trophies</h3>
 
