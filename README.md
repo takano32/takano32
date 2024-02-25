@@ -19,6 +19,8 @@ Hi 👋, I'm [@takano32](https://x.com/takano32)
 [![trophy](https://github-profile-trophy.vercel.app/?username=takano32&theme=onedark&column=9&margin-w=2&margin-h=2&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<h3 align="center">GitHub Profile Summary Cards</h3>
+
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takano32&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takano32&theme=monokai)
@@ -31,5 +33,6 @@ Hi 👋, I'm [@takano32](https://x.com/takano32)
 [![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<h3 align="center">GitHub Metrics</h3>
 
 ![Metrics](/github-metrics.svg)
