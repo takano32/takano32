@@ -43,4 +43,7 @@ Hi 👋, I'm [@takano32](https://x.com/takano32)
 
 <h3 align="center">GitHub Metrics</h3>
 
-![Metrics](/github-metrics.svg)
+<p align="center">
+  <img alt="Metrics" src="/github-metrics.svg">
+</p>
+
