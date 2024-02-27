@@ -3,8 +3,8 @@ Hi 👋, I'm [@takano32](https://x.com/takano32)
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=takano32&count_private=true&show_icons=true&theme=onedark" alt="takano32-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takano32&count_private=true&hide=javascript&layout=compact&langs_count=7&theme=onedark" alt="takano32-top-langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=takano32&count_private=true&show_icons=true&theme=onedark&hide_border=true" alt="takano32-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takano32&count_private=true&hide=javascript&layout=compact&langs_count=7&theme=onedark&hide_border=true" alt="takano32-top-langs">
 </p>
 
 
