@@ -3,8 +3,8 @@ Hi 👋, I'm [@takano32](https://x.com/takano32)
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=takano32&count_private=true&show_icons=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="takano32-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takano32&count_private=true&hide=javascript&layout=compact&langs_count=7&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="takano32-top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=takano32&count_private=true&show_icons=true&theme=onedark" alt="takano32-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takano32&count_private=true&hide=javascript&layout=compact&langs_count=7&theme=onedark" alt="takano32-top-langs" />
 </p>
 
 
@@ -32,9 +32,9 @@ Hi 👋, I'm [@takano32](https://x.com/takano32)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takano32&theme=monokai&utcOffset=8)
 -->
 
-[![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/onedark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/onedark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/onedark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/onedark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/onedark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <h3 align="center">GitHub Metrics</h3>
 
