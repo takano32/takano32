@@ -30,10 +30,19 @@ Hi 👋, I'm [@takano32](https://x.com/takano32)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takano32&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takano32&theme=monokai&utcOffset=8)
 -->
-
+<!--
 [![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/onedark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/onedark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/onedark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/onedark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/onedark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
+
+  ![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/onedark/0-profile-details.svg)
+  ![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/onedark/1-repos-per-language.svg)
+  ![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/onedark/2-most-commit-language.svg)
+  ![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/onedark/3-stats.svg)
+  ![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/onedark/4-productive-time.svg)
+
+
 
 <h3 align="center">GitHub Metrics</h3>
 
