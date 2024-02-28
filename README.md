@@ -41,9 +41,10 @@ Hi 👋, I'm [@takano32](https://x.com/takano32)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takano32&theme=monokai&utcOffset=8)
 -->
 
+<!--
 <h3 align="center">GitHub Metrics</h3>
 
 <p align="center">
   <img alt="Metrics" src="/github-metrics.svg">
 </p>
-
+-->
