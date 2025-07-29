@@ -15,26 +15,6 @@
 ### Each card usage
 ---
 
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-```
-
-    
-
----
-
 ![](./4-productive-time.svg)
 
 ```
