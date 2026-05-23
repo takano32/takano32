@@ -5,6 +5,10 @@ Hi 👋, I'm [@takano32](https://x.com/takano32)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=takano32&count_private=true&show_icons=true&theme=onedark&hide_border=true" alt="takano32-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takano32&count_private=true&hide=javascript&layout=compact&langs_count=7&theme=onedark&hide_border=true" alt="takano32-top-langs">
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=takano32&hide=html">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=takano32&show_icons=true&count_private=true&line_height=40">
+
 </p>
 
 
