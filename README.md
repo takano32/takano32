@@ -11,7 +11,7 @@ Hi 👋, I'm [@takano32](https://x.com/takano32)
 <h3 align="center">GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=takano32&theme=onedark&column=9&margin-w=2&margin-h=2&no-frame=true">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=takano32&theme=onedark&column=9&margin-w=2&margin-h=2&no-frame=true">
 </p>
 
 <h3 align="center">GitHub Profile Summary Cards</h3>
