@@ -11,7 +11,7 @@ Hi 👋, I'm [@takano32](https://x.com/takano32)
 <h3 align="center">GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=takano32">
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=takano32">
 </p>
 
 <h3 align="center">GitHub Profile Summary Cards</h3>
