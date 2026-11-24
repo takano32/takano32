@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/takano32/takano32/master/profile-summary-card-output/buefy/4-productive-time.svg)
-```
-
-    
